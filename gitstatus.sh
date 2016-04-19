@@ -1,7 +1,6 @@
 #!/bin/sh
-git init
-touch README.txt
+touch README2.txt
 git add -A 
-git commit -m "Commit 1"
-git status
+git commit -m "Commit 2"
+echo "aqui terminan las instrucciones de comando"
 
